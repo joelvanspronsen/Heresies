@@ -1,0 +1,55 @@
+h1,h2{
+    /* Position */
+    margin: auto;
+    text-align: center;
+    }
+    
+    body{
+        width: 600px;
+        margin: auto;
+        text-align: center;
+        /* Background */
+        background: rgba(255, 255, 255, 0.637);
+        border: 4px solid black;
+        border-radius: 25px;
+    }
+    
+    html{
+        background: url("images/bible.jpg") no-repeat center fixed;
+        background-size: cover;
+    }
+    
+    p, li{
+        /* font styles */
+        font-family: 'PT Serif', serif;
+        font-size: 20px;
+         }
+    
+    h1{
+        font-size: 40px;
+        font-variant: small-caps;
+    }
+    
+    h2{
+        font-size: 30px;
+    }
+    
+    a:link{
+        /* link styles */
+        color: black;
+        text-decoration: none;
+    }
+    
+    a:hover{
+        text-decoration: underline;
+    }
+    
+    a{
+     text-decoration: none;
+     color: black;
+    }
+    
+    a:hover{
+        text-decoration: underline;
+    }
+   
